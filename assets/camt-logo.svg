@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="120" viewBox="0 0 240 120" role="img" aria-label="CAMT logo">
+  <rect width="240" height="120" rx="14" fill="#0f4c81"/>
+  <circle cx="62" cy="60" r="34" fill="#f5c542"/>
+  <path d="M51 76V44h15c10 0 18 7 18 16s-8 16-18 16H51zm12-11h3c4 0 7-2 7-5s-3-5-7-5h-3v10z" fill="#0f4c81"/>
+  <text x="108" y="54" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">CAMT</text>
+  <text x="108" y="78" fill="#d9e8f5" font-family="Arial, Helvetica, sans-serif" font-size="14">Git Flow Lab</text>
+</svg>
